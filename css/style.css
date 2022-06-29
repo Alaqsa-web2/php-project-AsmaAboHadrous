@@ -1,0 +1,115 @@
+
+.login-form{
+    position: relative;
+    top: 100px;
+    background: rgb(56,103,138,0.63);
+    padding: 50px;
+    border-top-left-radius:100px;
+    border-bottom-right-radius:100px;
+}
+
+.login-btn{
+    height:50px;
+    border: 1px solid #3a2279;
+    color:#fff;
+    background: #3a2279;
+    font-weight: bolder;
+
+}
+.sign-up-btn{
+    height:50px;
+    border: 1px solid #52ce55;
+    color:#fff;
+    background: #52ce55;
+    font-weight: bolder;
+
+}
+.login-btn:hover{
+    height: 50px;
+    border:1px solid #3a2279;
+    background: #fff;
+    color: #3a2279;
+    font-weight: bolder;
+}
+.sign-up-btn:hover{
+    height: 50px;
+    border:1px solid #52ce55;
+    background: #fff;
+    color: #52ce55;
+    font-weight: bolder;
+}
+.sign-up-link{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    direction:rtl ;
+    font-size: 15px;
+}
+.collapse {
+    background-color: #22094c;
+}
+.panel-heading{
+    background-color: #22094c;
+}
+.navbar{
+    background-color: #3a2279;
+    color: #3a2279;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #22094c;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #3a2279;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color: #fff;
+    background-color: #3a2279;
+}
+
+.navbar-default .navbar-nav>li:hover{
+    background-color: #22094c;
+}
+
+.ads{
+    height: 400px;
+}
+.panel-default>.panel-heading{
+     height: 45px;
+     background-color: #3a2279;
+}
+.panel-default>.panel-heading p{
+    color: #3a2279;
+    font-weight: bold;
+    text-align: center;
+}
+.info li:nth-child(odd){
+    background-color: #3a2279;
+}
+.info li{
+    padding: 10px;
+}
+.info li span{
+    display:inline-block;
+    width: 100px;
+}
+.login-page{
+    background-image: url(../img/social.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.margin-bottom-12{
+    margin-bottom: 12px;
+}
+.posts{
+    margin-top: 50px;
+    border:1px solid #ddd;
+    background-color: #fff;
+    padding: 15px;
+}
+.media-comment{
+   background-color: #edf7ff;
+   border-bottom-left-radius: 15px;
+   padding: 10px;
+   border-top-right-radius: 15px;
+   border-bottom-right-radius: 15px;
+}
